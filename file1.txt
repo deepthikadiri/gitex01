@@ -2,4 +2,3 @@ hello hi
 bye bye
 welcome
 helloo
-class
